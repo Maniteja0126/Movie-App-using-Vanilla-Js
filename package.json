@@ -1,0 +1,25 @@
+{
+  "name": "movie-app-using-vanilla-js",
+  "version": "1.0.0",
+  "description": "Movie Listing App",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maniteja0126/Movie-App-using-vanilla-Js.git"
+  },
+  "keywords": [
+    "Movies"
+  ],
+  "author": "ManiTeja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maniteja0126/Movie-App-using-vanilla-Js/issues"
+  },
+  "homepage": "https://github.com/Maniteja0126/Movie-App-using-vanilla-Js#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
